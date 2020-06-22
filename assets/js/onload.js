@@ -5,6 +5,10 @@ $(document).ready(function() {
     });
 
     new WOW().init();
+
+    let lazyLoadInstance = new LazyLoad({
+      elements_selector: ".lazy"
+  });
     
 });
 
@@ -23,3 +27,4 @@ function myFunction() {
     header.classList.remove("sticky");
   }
 }
+

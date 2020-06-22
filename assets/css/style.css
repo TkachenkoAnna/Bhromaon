@@ -894,7 +894,6 @@ footer .foo_wrap .social_icons ul li a:hover {
 }
 @media screen and (max-width: 460px) {
   header .top_section {
-    padding-top: 40px;
     padding-bottom: 30px;
   }
   header .top_section .logo {
