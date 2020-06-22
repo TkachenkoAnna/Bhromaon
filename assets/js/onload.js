@@ -4,7 +4,12 @@ $(document).ready(function() {
       $(".hamburger, #mobile_menu").toggleClass("is-active");
     });
 
-    new WOW().init();
+    let wow = new WOW(
+      {
+        mobile: false
+      }
+    )
+    wow.init();
 
     let lazyLoadInstance = new LazyLoad({
       elements_selector: ".lazy"
