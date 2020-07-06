@@ -632,8 +632,8 @@ footer .foo_wrap .social_icons ul li a:hover {
   .section3-4_wrap .right_col {
     padding: 20px 20px 20px;
   }
-  .section3-4_wrap .left_col p,
-  .section3-4_wrap .right_col p {
+  .section3-4_wrap .left_col .text,
+  .section3-4_wrap .right_col .text {
     font-size: 12px;
   }
   .section3-4_wrap .left_col .s_desc,
