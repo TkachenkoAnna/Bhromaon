@@ -193,8 +193,8 @@ h2 {
   padding: 50px 30px 48px;
   background-color: rgba(35, 35, 35, 0.9);
 }
-.section3-4_wrap .left_col p,
-.section3-4_wrap .right_col p {
+.section3-4_wrap .left_col .text,
+.section3-4_wrap .right_col .text {
   font-size: 20px;
 }
 .section3-4_wrap .left_col .s_desc,
