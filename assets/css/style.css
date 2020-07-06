@@ -64,14 +64,14 @@
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  -webkit-transition: all ease 0.3s;
-  -o-transition: all ease 0.3s;
-  transition: all ease 0.3s;
 }
 .article1 .section_wrap .section1 .right_col picture {
   width: 73%;
   max-width: 350px;
   padding-bottom: 1px;
+  -webkit-transition: all ease 0.3s;
+  -o-transition: all ease 0.3s;
+  transition: all ease 0.3s;
 }
 .article1 .section_wrap .section1 .right_col picture:last-of-type {
   -ms-flex-item-align: end;
